@@ -29,7 +29,7 @@ export default function Footer() {
             <ul className="space-y-2 text-sm">
               <li><Link href="/privacy" className="hover:text-white transition">Polityka Prywatności</Link></li>
               <li><Link href="/terms" className="hover:text-white transition">Regulamin</Link></li>
-              <li><Link href="/cookies" className="hover:text-white transition">Cookies</Link></li>
+              <li><span className="text-gray-500">Cookies (wkrótce)</span></li>
             </ul>
           </div>
 
