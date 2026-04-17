@@ -6,19 +6,19 @@ import { Analytics } from '@vercel/analytics/react';
 const inter = Inter({ subsets: ['latin', 'latin-ext'] });
 
 export const metadata: Metadata = {
-  title: 'OgarniamFinanse - Zarządzaj Finansami w Grupie',
+  title: 'LifeSaldo - Zarządzaj Finansami w Grupie',
   description: 'Skanuj paragony, dziel wydatki grupowe, analizuj budżet. Darmowa aplikacja finansowa z OCR i AI.',
   keywords: 'budżet, finanse, paragony, OCR, rozliczenia grupowe, aplikacja finansowa',
-  authors: [{ name: 'OgarniamFinanse' }],
+  authors: [{ name: 'LifeSaldo' }],
   openGraph: {
-    title: 'OgarniamFinanse - Zarządzaj Finansami w Grupie',
+    title: 'LifeSaldo - Zarządzaj Finansami w Grupie',
     description: 'Skanuj paragony, dziel wydatki grupowe, analizuj budżet.',
     type: 'website',
     locale: 'pl_PL',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'OgarniamFinanse',
+    title: 'LifeSaldo',
     description: 'Zarządzaj finansami w grupie',
   },
 };

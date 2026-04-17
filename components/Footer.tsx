@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="grid md:grid-cols-4 gap-8 mb-8">
           {/* Brand */}
           <div>
-            <h3 className="text-white font-bold text-xl mb-4">OgarniamFinanse</h3>
+            <h3 className="text-white font-bold text-xl mb-4">LifeSaldo</h3>
             <p className="text-sm">
               Zarządzaj finansami w grupie. Prosto i bezpiecznie.
             </p>
@@ -37,7 +37,7 @@ export default function Footer() {
           <div>
             <h4 className="text-white font-semibold mb-4">Kontakt</h4>
             <ul className="space-y-2 text-sm">
-              <li><a href="mailto:kontakt@ogarniamfinanse.pl" className="hover:text-white transition">kontakt@ogarniamfinanse.pl</a></li>
+              <li><a href="mailto:kontakt@lifesaldo.com" className="hover:text-white transition">kontakt@lifesaldo.com</a></li>
               <li><Link href="/support" className="hover:text-white transition">Wsparcie</Link></li>
             </ul>
           </div>
@@ -45,7 +45,7 @@ export default function Footer() {
 
         <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm">
-            © 2025 OgarniamFinanse. Wszystkie prawa zastrzeżone.
+            © 2025 LifeSaldo. Wszystkie prawa zastrzeżone.
           </p>
           <div className="flex gap-6 mt-4 md:mt-0">
             <a href="#" className="hover:text-white transition">Facebook</a>

@@ -1,8 +1,8 @@
 import Link from 'next/link';
 
 export const metadata = {
-  title: 'Regulamin - OgarniamFinanse',
-  description: 'Regulamin korzystania z aplikacji OgarniamFinanse',
+  title: 'Regulamin - LifeSaldo',
+  description: 'Regulamin korzystania z aplikacji LifeSaldo',
 };
 
 export default function TermsOfService() {
@@ -21,7 +21,7 @@ export default function TermsOfService() {
           <section>
             <h2 className="text-2xl font-bold text-gray-900 mb-4">1. Postanowienia Ogólne</h2>
             <p className="mb-4">
-              Niniejszy Regulamin określa zasady korzystania z aplikacji mobilnej OgarniamFinanse 
+              Niniejszy Regulamin określa zasady korzystania z aplikacji mobilnej LifeSaldo 
               ("Aplikacja", "Usługa") dostępnej na platformach Android i iOS.
             </p>
             <p>
@@ -32,7 +32,7 @@ export default function TermsOfService() {
           <section>
             <h2 className="text-2xl font-bold text-gray-900 mb-4">2. Definicje</h2>
             <ul className="list-disc pl-6 space-y-2">
-              <li><strong>Usługodawca</strong> - OgarniamFinanse</li>
+              <li><strong>Usługodawca</strong> - LifeSaldo</li>
               <li><strong>Użytkownik</strong> - osoba korzystająca z Aplikacji</li>
               <li><strong>Konto</strong> - indywidualne konto Użytkownika w Aplikacji</li>
               <li><strong>Grupa</strong> - funkcja umożliwiająca wspólne zarządzanie finansami</li>
@@ -124,7 +124,7 @@ export default function TermsOfService() {
             <h3 className="text-xl font-semibold text-gray-800 mb-2">5.4. Zwroty</h3>
             <p className="mb-4">
               Zwroty są możliwe w ciągu 14 dni od zakupu zgodnie z prawem konsumenckim. 
-              Skontaktuj się: kontakt@ogarniamfinanse.pl
+              Skontaktuj się: kontakt@lifesaldo.com
             </p>
           </section>
 
@@ -202,7 +202,7 @@ export default function TermsOfService() {
             <h2 className="text-2xl font-bold text-gray-900 mb-4">11. Kontakt</h2>
             <p>
               W razie pytań dotyczących Regulaminu, skontaktuj się:<br />
-              <strong>Email:</strong> kontakt@ogarniamfinanse.pl<br />
+              <strong>Email:</strong> kontakt@lifesaldo.com<br />
               <strong>Odpowiadamy w ciągu:</strong> 48 godzin
             </p>
           </section>

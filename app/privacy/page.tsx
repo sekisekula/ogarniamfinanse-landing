@@ -1,8 +1,8 @@
 import Link from 'next/link';
 
 export const metadata = {
-  title: 'Polityka Prywatności - OgarniamFinanse',
-  description: 'Polityka prywatności aplikacji OgarniamFinanse',
+  title: 'Polityka Prywatności - LifeSaldo',
+  description: 'Polityka prywatności aplikacji LifeSaldo',
 };
 
 export default function PrivacyPolicy() {
@@ -21,9 +21,9 @@ export default function PrivacyPolicy() {
           <section>
             <h2 className="text-2xl font-bold text-gray-900 mb-4">1. Wprowadzenie</h2>
             <p>
-              Niniejsza Polityka Prywatności opisuje, w jaki sposób OgarniamFinanse ("my", "nas", "nasz") 
+              Niniejsza Polityka Prywatności opisuje, w jaki sposób LifeSaldo ("my", "nas", "nasz") 
               zbiera, wykorzystuje i chroni dane osobowe użytkowników ("Ty", "Twoje") korzystających z 
-              aplikacji mobilnej OgarniamFinanse.
+              aplikacji mobilnej LifeSaldo.
             </p>
           </section>
 
@@ -31,8 +31,8 @@ export default function PrivacyPolicy() {
             <h2 className="text-2xl font-bold text-gray-900 mb-4">2. Administrator Danych</h2>
             <p>
               Administratorem danych osobowych jest:<br />
-              <strong>OgarniamFinanse</strong><br />
-              Email: kontakt@ogarniamfinanse.pl
+              <strong>LifeSaldo</strong><br />
+              Email: kontakt@lifesaldo.com
             </p>
           </section>
 
@@ -125,7 +125,7 @@ export default function PrivacyPolicy() {
               <li><strong>Cofnięcia zgody</strong> - w dowolnym momencie</li>
             </ul>
             <p className="mt-4">
-              Aby skorzystać z tych praw, skontaktuj się: <strong>kontakt@ogarniamfinanse.pl</strong>
+              Aby skorzystać z tych praw, skontaktuj się: <strong>kontakt@lifesaldo.com</strong>
             </p>
           </section>
 
@@ -157,7 +157,7 @@ export default function PrivacyPolicy() {
             <h2 className="text-2xl font-bold text-gray-900 mb-4">12. Kontakt</h2>
             <p>
               W razie pytań dotyczących Polityki Prywatności, skontaktuj się:<br />
-              <strong>Email:</strong> kontakt@ogarniamfinanse.pl<br />
+              <strong>Email:</strong> kontakt@lifesaldo.com<br />
               <strong>Odpowiadamy w ciągu:</strong> 48 godzin
             </p>
           </section>
