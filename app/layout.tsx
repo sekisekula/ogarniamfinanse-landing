@@ -6,19 +6,19 @@ import { Analytics } from '@vercel/analytics/react';
 const inter = Inter({ subsets: ['latin', 'latin-ext'] });
 
 export const metadata: Metadata = {
-  title: 'LifeSaldo - Zarządzaj Finansami w Grupie',
+  title: 'Lifinio - Zarządzaj Finansami w Grupie',
   description: 'Skanuj paragony, dziel wydatki grupowe, analizuj budżet. Darmowa aplikacja finansowa z OCR i AI.',
-  keywords: 'budżet, finanse, paragony, OCR, rozliczenia grupowe, aplikacja finansowa',
-  authors: [{ name: 'LifeSaldo' }],
+  keywords: 'budżet, finanse, paragony, OCR, rozliczenia grupowe, aplikacja finansowa, Lifinio',
+  authors: [{ name: 'Lifinio' }],
   openGraph: {
-    title: 'LifeSaldo - Zarządzaj Finansami w Grupie',
+    title: 'Lifinio - Zarządzaj Finansami w Grupie',
     description: 'Skanuj paragony, dziel wydatki grupowe, analizuj budżet.',
     type: 'website',
     locale: 'pl_PL',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'LifeSaldo',
+    title: 'Lifinio',
     description: 'Zarządzaj finansami w grupie',
   },
 };

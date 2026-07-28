@@ -1,6 +1,6 @@
-# 🚀 OgarniamFinanse - Landing Page
+# 🚀 Lifinio - Landing Page
 
-Profesjonalny landing page dla aplikacji mobilnej OgarniamFinanse - zarządzanie finansami osobistymi i grupowymi.
+Profesjonalny landing page dla aplikacji mobilnej Lifinio - zarządzanie finansami osobistymi i grupowymi.
 
 ## 🛠️ Tech Stack
 
@@ -59,4 +59,4 @@ Deployed on [Vercel](https://vercel.com) with automatic CI/CD from GitHub.
 
 ## 📝 License
 
-© 2025 OgarniamFinanse. All rights reserved.
+© 2025 Lifinio. All rights reserved.
